@@ -1,6 +1,6 @@
 # Hi there, I'm Yeonghak Woo (우영학) 👋
 
-- 📱 **iOS Developer** (5th Year)
+- 📱 **iOS Developer** (3+ Years) with **Android Background**
 - 🛠 Currently working at **DEEP.FINE** (since 2021)
 - 🏗 **"새로운 기술을 탐구하고 즐겁게 개발하는 과정에서 보람을 느낍니다."**
 
