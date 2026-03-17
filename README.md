@@ -35,7 +35,7 @@
 - **[CleanMVI-iOS](https://github.com/BLEV-Woo/CleanMVI-iOS)**: MVI + Clean Architecture를 결합한 멀티 모듈 템플릿 (Open Source)
 - **[컬러잇!]** 실시간 색 추출 & 컬러피커 ([App Store](https://apps.apple.com/kr/app/id6759860218))
 - **[모여바라]** Firebase 기반의 실시간 게시판 및 채팅 서비스 ([App Store](https://apps.apple.com/kr/app/id6757860890))
-- **[트래버리]** 2024 TourAPI 공모전 출품작. 팀프로젝트 ([App Store](https://apps.apple.com/kr/app/id6673890168))
+- **[트래버리]** 2024 TourAPI 공모전 출품작. **[서버 및 아키텍처 리뉴얼 진행 중]** ([Project Page](https://slashpage.com/travery))
 
 ---
 
